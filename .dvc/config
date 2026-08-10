@@ -1,0 +1,4 @@
+[core]
+    remote = dvcremote
+['remote "dvcremote"']
+    url = C:\Users\WELCOME\AppData\Local\Temp\dvc_data_repo
